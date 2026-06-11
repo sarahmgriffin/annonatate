@@ -1,2 +1,9 @@
-images: []
+images:
+- added: '2026-06-11 15:11:22.842150'
+  iiif: true
+  thumbnail: https://images.lambethpalacelibrary.org.uk/luna/servlet/iiif/LPLIBLPL~17~17~190814~144432page0/full/!1024,1024/0/default.jpg
+  title: Unknown
+  url: https://images.lambethpalacelibrary.org.uk/luna/servlet/iiif/m/LPLIBLPL~17~17~190814~144432/manifest
+  user: sarahmgriffin
 settings: {}
+version: '2.1'
