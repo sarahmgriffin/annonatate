@@ -1,0 +1,37 @@
+---
+canvas: "https://images.lambethpalacelibrary.org.uk/luna/servlet/iiif/m/LPLIBLPL~17~17~190814~144432/canvas/c1/page14"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Monk ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "sarahmgriffin",
+                "name": "sarahmgriffin"
+            },
+            "created": "2026-06-11T16:09:49.550Z",
+            "modified": "2026-06-11T16:09:50.100Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://sarahmgriffin.github.io/annonatate/manifests/m/LPLIBLPL~17~17~190814~144432/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://images.lambethpalacelibrary.org.uk/luna/servlet/iiif/m/LPLIBLPL~17~17~190814~144432/canvas/c1/page14",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><circle cx=\"2550.1851806640625\" cy=\"1901.8504638671875\" r=\"291.62385026409373\"></circle></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5b2cf6f5-927b-488f-82d7-c552fe2ed635.json",
+    "motivation": "commenting"
+}
